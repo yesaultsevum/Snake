@@ -1,0 +1,31 @@
+
+.main{
+    width: 336px;
+    height: 336px;
+    border: 3px solid #ddd;
+    border-radius: 2px;
+    margin: 20px auto;
+}
+.score{
+	width: 336px;
+	margin: 10px auto;
+}
+.main div{
+	width: 20px;
+	height: 20px;
+	float: left;
+	margin: 1px;
+	border: 1px solid #ddd;
+	background-color: #fff;
+	border-radius: 2px;
+}
+.main .snake{
+	background-color: #bbb;
+}
+.main .head{
+    background-color: #FF6633;
+}
+.main .food{
+	background-color: #66CC99;
+	border-radius: 10px;
+}
